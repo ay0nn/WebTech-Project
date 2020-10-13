@@ -1,0 +1,14 @@
+For Admin login
+
+name: admin
+pass: 1
+
+
+name: manager
+pass: 2
+
+
+For User login
+
+name: ayon
+pass: 1234
